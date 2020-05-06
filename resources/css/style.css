@@ -100,3 +100,10 @@ nav span {
     font-weight: bold;
     text-align: center;
 }
+
+/* Location Section */
+
+.flex-container.locations {
+    padding-top: 5px;
+}
+
