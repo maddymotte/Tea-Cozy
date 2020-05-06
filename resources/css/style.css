@@ -45,3 +45,32 @@ nav {
     text-align: right;
     flex-grow: 1;
 }
+
+nav span {
+    display: inline-block;
+    padding: 20 px 10 px;
+}
+
+/* Main Section */
+
+.main {
+    padding-top: 69px;
+    opacity: 0.9;
+    width: 1200px;
+    margin: auto;
+    opacity: 0.9;
+}
+
+/* Mission Section */
+
+#mission {
+    height: 700px;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+    padding-top: 70px;
+}
+
+#mission .content {
+    margin: auto;
+    background-color: black;
+    width: 100%;
+}
