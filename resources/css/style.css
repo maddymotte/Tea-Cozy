@@ -113,3 +113,8 @@ nav span {
     padding-top: 70px;
 }
 
+#locations .flex-container {
+    margin: auto;
+    width: 1100 px;
+}
+
