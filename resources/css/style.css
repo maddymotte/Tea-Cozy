@@ -118,3 +118,14 @@ nav span {
     width: 1100 px;
 }
 
+.location { 
+    opacity: 1.0;
+    padding: 10px;
+    margin: 5px 20px;
+    background-color: black;
+    flex-basis: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
